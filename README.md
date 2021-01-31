@@ -1,5 +1,6 @@
 # DataVisualization
 R,Tableau and Python
+
 Have used Two dataset for Data Visualization.
 One Dataset id hotel booking demand from Kaggle, have used Tableau for insights.
 This dataset describes two hotel one is Resort Hotel and other is City hotel. Both shares the same structure with 31 variables. Both the dataset comprehend bookings due to arrive between the 1st of July of 2015 and 31st of August 2017, including the bookings that effectively arrived  and bookings that were cancelled(ScienceDirect Full Text PDF, 2018).
